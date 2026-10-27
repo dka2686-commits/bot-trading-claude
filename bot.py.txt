@@ -1,0 +1,8 @@
+import time
+
+print("Bot Trading Claude berhasil berjalan di Cloud!")
+
+while True:
+    # Di sini nanti tempat analisis Claude & eksekusi trading
+    print("Bot sedang memantau pasar...")
+    time.sleep(60)  # Cek setiap 60 detik
